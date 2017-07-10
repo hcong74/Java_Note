@@ -4,7 +4,7 @@ public class StackOfIntegers {
     public static final int DEFAULT_CAPACITY = 16;
 
     public StackOfIntegers() {
-	this(DEAFAULT_CAPACITY);
+	this(DEFAULT_CAPACITY);
     }
 
     public StackOfIntegers(int capacity) {

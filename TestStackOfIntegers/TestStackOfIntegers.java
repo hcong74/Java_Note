@@ -6,5 +6,6 @@ public class TestStackOfIntegers {
 	    stack.push(i);
 	while (!stack.empty())
 	    System.out.print(stack.pop() + " ");
+        System.out.println();
     }
 }
